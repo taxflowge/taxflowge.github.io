@@ -1,0 +1,5 @@
+date_created,document_id(optional),amount,currency,payer(optional),account_number(optional),payment_source_type
+05/01/2026,,1500.00,GEL,Example income source - Cash deposit,,CASH
+05/01/2026,,55.00,USD,Example income source - Other,,OTHER
+05/01/2026,TXN-100003,310.25,EUR,Example income source - Transfer,GE00XXXX0000000002,TRANSFER
+05/01/2026,TXN-100004,19.99,USD,Example income source - Terminal,GE00XXXX0000000002,TERMINAL
